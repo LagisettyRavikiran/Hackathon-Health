@@ -6,7 +6,6 @@ Step 2: Run app.py file
 Step 3: Go to the specific cancer web page upload the image of specific cancer and predict the cancer.
 
 Dataset:
-
 Diabetic Retinopathy:
 https://www.kaggle.com/datasets/pkdarabi/diagnosis-of-diabetic-retinopathy
 
